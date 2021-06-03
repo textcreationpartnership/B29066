@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reproof to those church men or ministers that refused to read the Kings most gracious declaration by Elizabeth Rone.</title>
+            <author>Rone, Elizabeth.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29066</idno><idno type="EEBO-CITATION">9007857</idno>
+  <idno type="VID">204352</idno>
+  <idno type="EEBO-PROQUEST">2248500006</idno>
+  
+            <idno type="STC">Wing R1914A</idno>
+            <idno type="OCLC">09007857</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1293:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reproof to those church men or ministers that refused to read the Kings most gracious declaration by Elizabeth Rone.</title>
+                  <author>Rone, Elizabeth.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Elizabeth Rone,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Poem.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:204352:1"/>
+            <pb facs="tcp:204352:2"/>
+            <head>A Reproof to those <hi>Church Men</hi> or <hi>Ministers</hi> that Refused to Rea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the KINGS most Gracious Declaration.</head>
+            <byline>By <hi>Elizabeth R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne,</hi> a Sweet Singer of <hi>Israel.</hi>
+            </byline>
+            <lg>
+               <l>IS this the Honour that you give the <hi>KING,</hi>
+               </l>
+               <l>That you should <hi>Dirt</hi> upon His <hi>Mercy</hi> fling,</l>
+               <l>By doing contrary to his Command,</l>
+               <l>And thereby make Divisions in His Land?</l>
+               <l>Should not you be <hi>Ensamples to the Flock?</hi>
+               </l>
+               <l>But you are apter at the Truth to mock:</l>
+               <l>And then hand <hi>Papers</hi> to excuse your selves,</l>
+               <l>Which yet has render'd you seditious Elves;</l>
+               <l>But you would fain draw the Dissenters in,</l>
+               <l>To be partakers of your stubborn Sin;</l>
+               <l>Thô formerly you did them stubborn call,</l>
+               <l>And in your Pulpits at them loud did baul;</l>
+               <l>Nay more than that, you Robbed many a one;</l>
+               <l>And under your oppressions made them groan,</l>
+               <l>Because they could not in their Conscience find</l>
+               <l>That they could be obedient to your mind</l>
+               <l>Or will, in doing things you did require,</l>
+               <l>And so past through your persecuting Fire;</l>
+               <l>Being Counted Fools and Mad-men for that thing,</l>
+               <l>And set down by you <hi>Rebels to the KING:</hi>
+               </l>
+               <l>And now in Equitie I do allow,</l>
+               <l>That they may Laugh, and say, <hi>Who's the Fool now?</hi>
+               </l>
+               <l>Or who's the Rebel, that would not obey</l>
+               <l>His Majesty, in such a Blessed VVay,</l>
+               <l>In making Peace amongst his Subjects all,</l>
+               <l>And setting every Conscience out of thrall?</l>
+               <l>Go to, O all ye blind, and be more wise;</l>
+               <l>For you are both too <hi>peevish</hi> and <hi>precise:</hi>
+               </l>
+               <l>For to deny your duty in <hi>that thing,</hi>
+               </l>
+               <l>VVhereby to anger such a gracious KING:</l>
+               <l>For where his <hi>Word</hi> is, there should be <hi>true Power;</hi>
+               </l>
+               <l>And <hi>Subjects</hi> ought not on his <hi>Laws</hi> to lowre;</l>
+               <l>Especially when they are <hi>Just</hi> and <hi>Good,</hi>
+               </l>
+               <l>They ought by no man then to be withstood.</l>
+               <l>VVhat is your <hi>own Coat</hi> rent? Are you divided?</l>
+               <l>That some of you will not by Him be guided</l>
+               <l>VVhom you do say, in the next place to God,</l>
+               <l>Should bear the <hi>Sword,</hi> and next to Christ the <hi>Rod.</hi>
+               </l>
+               <l>Look for severe Rebukes; for you have done</l>
+               <l>Despight to him that is next to God's Son:</l>
+               <l>If you lose nothing but your <hi>Place,</hi> it's well,</l>
+               <l>That dare unto so good a King to tell</l>
+               <l>His Actions are Illegal; though 'tis plain</l>
+               <l>His Justice is the Glory of His Reign.</l>
+               <l>Him God Exalted hath for this great VVork:</l>
+               <l>His Light shall shine before both <hi>Jew</hi> and <hi>Turk:</hi>
+               </l>
+               <l>VVhen your late disobedient Act shall <hi>stink;</hi>
+               </l>
+               <l>And what you <hi>Brew,</hi> you shall be sure to <hi>Drink.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Your Brethren that <hi>Obeyed,</hi> be commended;</l>
+               <l>And for the future, shall be much befriended:</l>
+               <l>VVhen all shall see, to your encrease of pain,</l>
+               <l>That with true Love you cannot <hi>Live</hi> nor <hi>Reign.</hi>
+               </l>
+               <l>This I do write, that cannot lye nor faine:</l>
+               <l>I know your <hi>borrowed Lights</hi> are in the <hi>Wane.</hi>
+               </l>
+            </lg>
+            <bibl>
+               <hi>Vale.</hi>
+            </bibl>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Elizabeth Rone.</hi> 1688. </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>
